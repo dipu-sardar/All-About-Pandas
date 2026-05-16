@@ -1,0 +1,29 @@
+1. Select specific column ? 
+2. filter rows ?
+3. combine multiple conditions ?
+
+solutions:
+1. to select use, square brackets 
+2. to filter using boolean conditions
+
+selecting column: 
+column = df["column_name"]
+subset = df["column1", "column2"...]
+1. a series
+2. dataframe multiple columnh of data 
+
+
+filtering rows: 
+1. boolean indexing
+
+
+#based on a single condition 
+filter_rows = df[df["column_name"] > 50000]
+
+
+#multiple condition for rows
+filter_rows = df[(df["salary"] > 50000) & (df["salary"] < 80000)]
+
+
+
+

@@ -1,0 +1,106 @@
+Customer_ID,Name,Email,Phone,City,Product,Quantity,Price,Total_Amount,Payment_Status
+1,Adam Melendez,sheila38@mcdowell.com,+1-102-231-4714x95192,,Phone,10,2268,22680,Pending
+2,David Turner,dunlapjessica@hotmail.com,326.952.7173x31939,Danielmouth,Headphone,9,2975,26775,Paid
+3,Mackenzie Bishop,ashley09@hotmail.com,001-157-487-3731x5536,Lake Valeriefort,Phone,3,3592,10776,???
+4,Jackie Robertson,mollygarcia@williams-yates.com,286-084-5896,Antoniomouth,Keyboard,5,4364,21820,Cancelled
+5,Nicole Whitaker,lsmith@howell.com,249-700-2399,New Daniel,Mouse,2,717,1434,Paid
+6,Tiffany Hamilton DDS,stephanie14@hotmail.com,096.424.8050x9167,Valenzuelaborough,Mouse,7,3340,23380,Paid
+7,Jacob Williams,vargasjennifer@kennedy-byrd.com,(076)065-5024x752,Port Alexandraland,Monitor,9,2530,22770,Paid
+8,Jeremiah Smith,richard58@ramos.com,335-050-0429x28187,Jonesberg,Monitor,Unknown,1969,15752,Cancelled
+9,Bradley Lopez,gdouglas@lopez-schwartz.com,(424)782-4280,Duncanton,Laptop,1,4588,4588,Cancelled
+10,Claire Novak,alexandergregory@gutierrez.info,INVALID_PHONE,North Williamfort,Monitor,8,4123,32984,Pending
+11,Samantha Murphy,jeffreycrawford@weaver.com,(598)290-4332,West Patriciaside,Tablet,5,4746,23730,Paid
+12,Allison Scott,jonesshane@gmail.com,756-492-7371,Conniemouth,Tablet,10,1229,12290,Cancelled
+13,Austin Jones,lisayoung@gmail.com,+1-838-688-5207x4994,Markchester,Tablet,4,3728,14912,Cancelled
+14,Danielle Smith,gabrielle28@yahoo.com,275.375.1023,Andreaside,Mouse,6,3797,22782,Pending
+15,Emily Townsend,jessicakelly@hudson-vargas.com,9007772921,Christinamouth,Keyboard,10,3639,36390,Pending
+16,Lacey Serrano,uramirez@johnson.com,+1-965-253-1678x432,Nguyenbury,Tablet,5,3229,16145,Pending
+17,Michelle Wolf,dianeashley@hotmail.com,+1-043-650-4002,Port Roger,Headphone,7,1225,8575,Cancelled
+18,James Wells,davidcarter@gmail.com,8300129193,Port Matthew,Tablet,1,4043,4043,Paid
+19,Anna Galvan,bennetterik@wagner.com,694.519.9036,New Douglas,Laptop,10,2680,26800,Cancelled
+20,Robin Ballard,jodi32@rodriguez.com,079.420.8107,Lake Charles,Headphone,3,3350,10050,Cancelled
+21,Wendy Rodriguez,bwhite@robles-beck.com,+1-349-718-4252,Pamelaborough,Mouse,6,4722,28332,Paid
+22,William White,,001-657-424-8226x23471,Port Veronicachester,Phone,4,3340,13360,Cancelled
+23,Jade Brown,stevenmullins@alvarez.com,(656)839-4157x453,West Jonathan,Phone,10,2899,28990,Pending
+24,Nicholas Edwards,fpope@jones.com,679-911-5369,East Debramouth,Tablet,8,3999,31992,Paid
+25,Kevin Smith,odavis@ray.com,001-878-188-9940x336,Wolfeshire,Phone,6,4857,29142,Cancelled
+26,Grant Richmond,vgonzalez@gmail.com,365.458.9109x52829,East Tylerchester,Laptop,8,2801,22408,Pending
+27,Victoria Jacobs,susan37@gmail.com,381-905-3289x4284,Owensville,Monitor,8,1281,10248,Pending
+28,Robert Moore,joshua63@brown.com,1661066381,Lake James,Headphone,10,1371,13710,Pending
+29,Ashlee Cox,smithdebra@hardy-robinson.com,006-466-6491,Cynthiaberg,Monitor,5,3559,17795,Pending
+30,Terri Morris,xgolden@hays.info,858.789.6025,Lake Mark,Headphone,7,4124,28868,Pending
+31,Nicole Howard,stephen04@knight.com,(078)164-6406x00287,Melaniebury,Tablet,6,1234,7404,Cancelled
+32,Nicole Hughes,millerseth@cortez.com,001-786-979-8132x978,Janefurt,Monitor,7,4140,28980,Paid
+33,Victoria Beard,hodgesalicia@gmail.com,001-060-620-9803x376,Port Jeanneland,Mouse,4,-151,19704,Pending
+34,Mr. Patrick Sullivan,donnadodson@morrison.net,595-925-5206x950,Sanchezhaven,Phone,4,-455,4008,Cancelled
+35,Andrew Estes,james58@johnson-day.com,001-210-928-8189x218,Michaelmouth,Tablet,3,1217,3651,Pending
+36,Vanessa Turner,bensonpatrick@yahoo.com,(053)017-8104x902,Davisview,Monitor,1,1091,1091,Cancelled
+37,Robert Baker,dixonmichelle@yahoo.com,001-938-670-7573x74934,West Jonathan,Laptop,Unknown,1409,7045,Cancelled
+38,Jean Meadows,michaelschwartz@moore-ramos.com,(327)897-5842,East Rodney,Phone,6,1811,10866,Pending
+39,Patrick Miller,michaelmayo@trujillo.info,887.081.5004x64363,Joshuafort,Laptop,1,1650,1650,Pending
+40,Darius Castillo,chandlermichael@frye.com,257-803-0551,Lake Jessica,Headphone,1,874,874,Cancelled
+41,David Garrett,trevor27@hotmail.com,INVALID_PHONE,Garzamouth,Mouse,5,1107,5535,Cancelled
+42,Valerie Gomez,cynthia48@morales.com,827-638-5929,North Keithton,Tablet,4,2170,8680,Pending
+43,Stacey Reed,awilliams@yahoo.com,(452)919-9826,Andrewmouth,Keyboard,7,2630,18410,Pending
+44,Margaret Shannon,zchavez@yahoo.com,052-497-6668x8814,North Reneeborough,Headphone,6,2844,17064,Pending
+45,William Estes,cookmadison@gmail.com,570-475-8153,East Cherylside,Headphone,5,3444,17220,Pending
+46,Nicole Hess,ruth81@yahoo.com,384-381-3437x580,Rachelbury,Mouse,8,1005,8040,Pending
+47,Robin Davis,,+1-781-174-3048,Kevinfort,Keyboard,7,2057,14399,Paid
+48,Lawrence French,ncarrillo@roberts.info,508.967.4746x700,New Robert,Mouse,Unknown,3481,27848,Pending
+49,Timothy Bean,russellchristopher@pham-gardner.biz,117-645-6225x44118,Port Matthewfurt,Tablet,7,2179,15253,Cancelled
+50,Stephanie Rowe,byrdwilliam@ray.com,(867)188-0550x9689,Meyerstad,Mouse,8,571,4568,Paid
+51,Matthew Arias,lawrence40@gmail.com,(456)105-3568,Port Steven,Keyboard,7,3578,25046,Paid
+52,Danielle Vaughn,,121.312.6824,Johnsonton,Keyboard,2,3274,6548,Pending
+53,Kimberly Jones,fgraham@martin-herrera.com,2318138795,Schroedermouth,Laptop,1,1083,1083,Cancelled
+54,Michelle Gallegos,cherylgould@yahoo.com,139-423-6096,Lake Amanda,Phone,9,3805,34245,Cancelled
+55,Robert Simmons,xhansen@hotmail.com,933-379-0713,Justinville,Tablet,7,4589,32123,Pending
+56,Joshua Hudson,martinezcarol@hotmail.com,048.631.4123x64997,Andersonstad,Phone,3,2935,8805,Paid
+57,Gregory Mcdaniel,kimberlymartinez@gmail.com,INVALID_PHONE,Reedtown,Keyboard,10,795,7950,Cancelled
+58,Madison Sims,lindsay03@johnson-watts.org,(162)722-1402x12630,Port Sharon,Headphone,8,2736,21888,Cancelled
+59,Rebecca Nguyen,ehenry@mcconnell.org,INVALID_PHONE,Cowanhaven,Tablet,4,3930,15720,Paid
+60,Eric Mann,lisa89@small.net,824.112.2033,Kevinhaven,Keyboard,5,3726,18630,Cancelled
+61,Manuel Lyons,gregorystone@gmail.com,001-463-440-6378x31237,Lake Michaelton,Tablet,8,2436,19488,Paid
+62,Elizabeth Woodward,jeffreyhayes@gmail.com,(078)708-2138,North Scottshire,Phone,2,1951,3902,Paid
+63,Brian Cooper,mary58@lawson-clark.com,0640950259,Greenport,Tablet,2,4325,8650,Cancelled
+64,Amy Johnson,maloneemma@gmail.com,8771261283,Keithfort,Phone,2,1151,2302,???
+65,Robert Morgan,,(256)977-0309x3126,North Gregory,Mouse,2,3877,7754,Cancelled
+66,Emily Rivera,jessica23@ortega.com,001-718-465-3356x42841,Port Steven,Headphone,3,2484,7452,Paid
+67,Thomas Robinson,rjohnson@hotmail.com,832-442-6397x8866,Millermouth,Laptop,7,3653,25571,Cancelled
+68,Billy Turner,oclayton@gmail.com,478.844.4272x37559,Nguyenside,Headphone,2,2603,5206,Paid
+69,Robert Lee,karenwilson@yahoo.com,180-188-6275x3106,Ayalaland,Mouse,6,1179,7074,Cancelled
+70,Richard Gonzalez,carterheather@payne-cardenas.com,(674)302-3223x35010,Claireberg,Keyboard,6,4734,28404,Paid
+71,Susan Rodriguez,michellerobertson@yahoo.com,(593)085-6276x3222,Wilsonville,Phone,3,4618,13854,Paid
+72,Jason Lewis,andreahill@dean.com,620-846-2536x873,Villaborough,Mouse,3,2361,7083,Pending
+73,Danielle Clark,gneal@miles.com,570-986-2262,Carrollview,Phone,2,4403,8806,Paid
+74,Sara Watkins,fpowell@hotmail.com,001-291-526-2555x64137,East Lindseyland,Headphone,1,1225,1225,Cancelled
+75,Dr. Tiffany Lee,robertking@hotmail.com,(654)034-6807x34661,Peckville,Tablet,9,1832,16488,Paid
+76,Jonathan Hughes,jessica44@gibson.com,803-984-9864x47036,Henrymouth,Tablet,3,3765,11295,Cancelled
+77,Suzanne Contreras,ocampbell@butler.com,776-451-2774x0215,Joannstad,Phone,2,1916,3832,Pending
+78,James Hoover,wgonzalez@garcia-morrow.com,001-972-750-4088x83292,Rodriguezberg,Mouse,8,1420,11360,Cancelled
+79,Caitlyn Hall,smithnathan@lee.biz,784.469.3985x3116,Port Stephanieport,Monitor,1,1862,1862,Cancelled
+80,Joseph Baker,richard39@huynh.org,+1-945-700-0227,Sarahtown,Tablet,2,3395,6790,Pending
+81,Billy Brock,smithsheryl@prince-barrera.net,6074840471,Alvarezton,Mouse,3,1345,4035,Paid
+82,Catherine Herman,asanchez@yahoo.com,001-477-386-3852x46924,Port Angela,Laptop,4,1306,5224,Pending
+83,Christina Moore,douglas41@page-young.com,+1-853-954-4807x059,Wangside,Mouse,7,884,6188,Paid
+84,Megan Contreras,mwilson@long-thornton.com,007.836.4866x23019,Thorntontown,Keyboard,3,2016,6048,Paid
+85,Angela Armstrong,karenperez@hernandez.biz,949.180.8961x5691,Port Tiffany,Mouse,10,699,6990,Pending
+86,Brenda Francis,vbutler@yahoo.com,(520)645-8612x386,East Kristine,Phone,2,1816,3632,Cancelled
+87,Richard Hull,shelby33@jones.com,793.536.6465x76970,Grayfurt,Tablet,8,4176,33408,Pending
+88,Monique Fox,aaronblake@yahoo.com,+1-863-198-6574x25110,Bryantmouth,Tablet,7,1538,10766,Pending
+89,Jamie Nunez,thompsonlauren@hall.org,001-563-822-9698,Davidhaven,Laptop,8,2490,19920,Paid
+90,Kristin Middleton,,243.036.5900x2560,Francismouth,Laptop,2,3022,6044,Cancelled
+91,Gabriel Ramirez,clarkjulian@lambert.com,+1-613-465-4571x940,,Keyboard,5,1833,9165,Cancelled
+92,Nicholas Hendricks,xavierkeller@yahoo.com,539.043.2101x533,East Grantchester,Phone,1,1422,1422,Paid
+93,Mark Reid,margaretmerritt@sanchez.org,356-856-8546x99637,Port Christopher,Laptop,10,1664,16640,Paid
+94,Paul Luna,bridgestroy@hotmail.com,INVALID_PHONE,East Christopher,Laptop,10,1184,11840,Paid
+95,Andrea Hughes,logan81@solis.com,2278817345,Katrinaport,Keyboard,4,737,2948,Paid
+96,Melissa Williams,mccoyjeremy@yahoo.com,001-087-689-7794,Lake Brianna,Headphone,3,2907,8721,Paid
+97,Tracy Munoz,russell18@gmail.com,6202248127,Sabrinabury,Monitor,6,3347,20082,Pending
+98,Kenneth Harris,fergusonwesley@hotmail.com,(477)779-9359x975,Haileyfort,Tablet,6,3592,21552,Cancelled
+99,Sean Oconnor,philipburns@campbell.com,259-150-3625x47572,North Laurenbury,Tablet,8,-104,13664,Pending
+100,Susan Perez,james45@ruiz.com,001-671-663-8557x42602,Connerville,Mouse,2,2430,4860,Cancelled
+84,Megan Contreras,mwilson@long-thornton.com,007.836.4866x23019,Thorntontown,Keyboard,3,2016,6048,Paid
+54,Michelle Gallegos,cherylgould@yahoo.com,139-423-6096,Lake Amanda,Phone,9,3805,34245,Cancelled
+71,Susan Rodriguez,michellerobertson@yahoo.com,(593)085-6276x3222,Wilsonville,Phone,3,4618,13854,Paid
+46,Nicole Hess,ruth81@yahoo.com,384-381-3437x580,Rachelbury,Mouse,8,1005,8040,Pending
+45,William Estes,cookmadison@gmail.com,570-475-8153,East Cherylside,Headphone,5,3444,17220,Pending
