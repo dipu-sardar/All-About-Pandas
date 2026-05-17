@@ -1,0 +1,9 @@
+NaN (Not a number)
+None(for object data type)
+
+you need to find out something:
+where is the place from missing values 
+
+isnull() 
+True - NaN is missing
+False - value is present
